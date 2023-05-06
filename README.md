@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/david-silva-74893b137">IT Professional</a>☺</h1>
+<h1>Hi, I'm David, an <a href="www.linkedin.com/in/david-silva-74893b137">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
