@@ -3,10 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites, Installation, Creating Tickets][(https://github.com/DavidsilvaD/osticket-prereqs)]
+  - [osTicket: Prerequisites, Installation, Creating Tickets](https://github.com/DavidsilvaD/osticket-prereqs)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]([(https://github.com/DavidsilvaD/Microsoft-Azure)])
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DavidsilvaD/Microsoft-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
